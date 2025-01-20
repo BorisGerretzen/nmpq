@@ -5,10 +5,11 @@
         <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
-        <RepositoryUrl>https://github.com/bernatvadell/nmpq</RepositoryUrl>
-        <Authors>Nick Aceves</Authors>
+        <RepositoryUrl>https://github.com/BorisGerretzen/nmpq/</RepositoryUrl>
+        <Authors>Nick Aceves, Boris Gerretzen</Authors>
+        <PackageId>Nmpq.Standard</PackageId>
         <PackageTags>MPQ, Nmpq</PackageTags>
-        <Description>A fully-managed C# parser for blizzard MPQ Archives</Description>
+        <Description>A fully-managed C# parser for blizzard MPQ Archives, upgraded to .net standard.</Description>
         <RepositoryType>Git</RepositoryType>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
